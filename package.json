@@ -1,9 +1,9 @@
 {
-  "name": "@mochajs/json-file-reporter",
-  "version": "1.3.0",
+  "name": "@espendk/json-file-reporter",
+  "version": "1.4.0",
   "author": {
-    "name": "Munieru",
-    "url": "https://github.com/munierujp"
+    "name": "espendk",
+    "url": "https://github.com/espendk"
   },
   "contributors": [],
   "description": "JSON file reporter for Mocha",
