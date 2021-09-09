@@ -1,6 +1,6 @@
 {
   "name": "@espendk/json-file-reporter",
-  "version": "1.4.0",
+  "version": "1.4.2",
   "author": {
     "name": "espendk",
     "url": "https://github.com/espendk"
@@ -30,7 +30,7 @@
   ],
   "main": "src/index.js",
   "peerDependencies": {
-    "mocha": "6.x || 7.x || 8.x"
+    "mocha": "6.x || 7.x || 8.x || 9.x"
   },
   "license": "MIT",
   "keywords": [
